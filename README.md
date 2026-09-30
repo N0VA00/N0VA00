@@ -1,31 +1,74 @@
 <div align="center">
 
-  <!-- Animated Header / Typing Effect -->
+  <!-- Bold Maroon Header with Prominent Name -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=580816&height=180&section=header&text=SUHAIL%20NASHER&fontSize=48&fontColor=ffffff&fontAlignY=46&desc=MOBILE%20APPLICATION%20%26%20WEB%20ARCHITECT&descSize=15&descColor=f9c2cc&descAlignY=68" width="100%" alt="Suhail Nasher Header" />
+
+  <br/><br/>
+
+  <!-- Status & Profile Highlights -->
   <a href="https://github.com/N0VA00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=80&lines=Hi+there,+I'm+Suhail+Nasher+👋;Mobile+App+%26+Web+Developer;Building+Cross-Platform+Apps+with+Flutter;Crafting+Sleek+UI%2FUX+Interfaces" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/Location-Yemen%20🇾🇪-420510?style=for-the-badge&logoColor=white" alt="Location" />
   </a>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Yemen%20🇾🇪-0ea5e9?style=for-the-badge&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-6366f1?style=for-the-badge&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/Status-Coding%20Something%20Awesome-10b981?style=for-the-badge&logoColor=white" alt="Status" />
-  </p>
-
-  <!-- Modern Gradient Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <a href="https://github.com/N0VA00">
+    <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Web-700B1D?style=for-the-badge&logoColor=white" alt="Focus" />
+  </a>
+  <a href="https://github.com/N0VA00">
+    <img src="https://img.shields.io/badge/Status-Coding%20Innovative%20Apps-A51D35?style=for-the-badge&logoColor=white" alt="Status" />
+  </a>
 
 </div>
 
-<br />
+<br/>
 
-### ⚡ Snapshot
+### 📊 Proficiency & Core Competence
 
-```json
-{
-  "developer": "Suhail Nasher",
-  "role": "Mobile & Web Developer",
-  "location": "Yemen 🇾🇪",
-  "core_stack": ["Flutter", "Dart", "JavaScript"],
-  "focus": "Cross-Platform Apps & Modern UI/UX",
-  "status": "Available for innovative projects 🚀"
-}
+<div align="center">
+
+  <!-- Interactive Donut Chart for Languages in Maroon/Dark Theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0VA00&layout=donut&theme=transparent&hide_border=true&title_color=E23E57&text_color=ffffff&icon_color=700B1D" width="48%" alt="Language Breakdown Donut Chart" />
+
+</div>
+
+<br/>
+
+#### 🎯 Precise Skill Metrics
+
+| Technology | Proficiency | Level |
+| :--- | :--- | :---: |
+| **Flutter Architecture** | `96.9%` ![Progress](https://geps.dev/progress/97?color=700B1D) | **Master** |
+| **Dart Core & OOP** | `91.0%` ![Progress](https://geps.dev/progress/91?color=8E0E25) | **Advanced** |
+| **HTML5 / Modern CSS** | `94.0%` ![Progress](https://geps.dev/progress/94?color=A51D35) | **Advanced** |
+| **JavaScript Logic** | `88.5%` ![Progress](https://geps.dev/progress/89?color=C21838) | **Skilled** |
+
+---
+
+### 🛠️ Specialized Technologies & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,git,github,vscode,figma,postman&theme=dark" alt="Tech Stack" />
+</div>
+
+<br/>
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+  <a href="mailto:suhailnasher0@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Mail-suhailnasher0%40gmail.com-700B1D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/N0VA00">
+    <img src="https://img.shields.io/badge/GitHub-N0VA00-38040C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Minimalist Maroon Footer Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=580816&height=70&section=footer" width="100%" alt="Footer Wave" />
+</div>
