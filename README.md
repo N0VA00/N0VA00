@@ -1,9 +1,10 @@
 <div align="center">
 
-  <!-- Bold Maroon Header with Prominent Name -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=580816&height=180&section=header&text=SUHAIL%20NASHER&fontSize=48&fontColor=ffffff&fontAlignY=46&desc=MOBILE%20APPLICATION%20%26%20WEB%20ARCHITECT&descSize=15&descColor=f9c2cc&descAlignY=68" width="100%" alt="Suhail Nasher Header" />
+  <!-- Clean Professional Text Header (No External Image Errors) -->
+  <h1>  SUHAIL NASHER  </h1>
+  <p><h3><b>MOBILE APPLICATION & WEB ARCHITECT</b></h3></p>
 
-  <br/><br/>
+  <br/>
 
   <!-- Status & Profile Highlights -->
   <a href="https://github.com/N0VA00">
@@ -20,35 +21,49 @@
 
 <br/>
 
-### 📊 Proficiency & Core Competence
+---
 
-<div align="center">
+### 💡 About Me
 
-  <!-- Interactive Donut Chart for Languages in Maroon/Dark Theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0VA00&layout=donut&theme=transparent&hide_border=true&title_color=E23E57&text_color=ffffff&icon_color=700B1D" width="48%" alt="Language Breakdown Donut Chart" />
+<div dir="rtl" align="right">
+
+> **مرحباً بك!** أنا **سهيل ناشر**، مهندس ومطور برمجيات متخصص في بناء وتطوير تطبيقات الهواتف الذكية وتطبيقات الويب باستخدام أحدث التقنيات مثل **Flutter & Dart**. أهتم بتقديم تجارب مستخدم متميزة، وهندسة برمجيات قابلة للتوسع، وتوظيف قواعد البيانات والحلول السحابية بكفاءة عالية.
 
 </div>
 
 <br/>
 
-#### 🎯 Precise Skill Metrics
+---
 
-| Technology | Proficiency | Level |
+### 📊 Proficiency & Core Competence
+
+#### 🎯 Precise Skill Metrics & Tech Stack
+
+| Domain / Category | Technologies & Languages | Proficiency Level |
 | :--- | :--- | :---: |
-| **Flutter Architecture** | `96.9%` ![Progress](https://geps.dev/progress/97?color=700B1D) | **Master** |
-| **Dart Core & OOP** | `91.0%` ![Progress](https://geps.dev/progress/91?color=8E0E25) | **Advanced** |
-| **HTML5 / Modern CSS** | `94.0%` ![Progress](https://geps.dev/progress/94?color=A51D35) | **Advanced** |
-| **JavaScript Logic** | `88.5%` ![Progress](https://geps.dev/progress/89?color=C21838) | **Skilled** |
+| **Mobile Architecture** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | `97%` ![Progress](https://geps.dev/progress/97?color=700B1D) **Master** |
+| **Web Technologies** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | `92%` ![Progress](https://geps.dev/progress/92?color=8E0E25) **Advanced** |
+| **Databases & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white) ![Local Storage](https://img.shields.io/badge/Hive%20%2F%20Local-415A77?style=flat) | `90%` ![Progress](https://geps.dev/progress/90?color=A51D35) **Advanced** |
+| **Cloud & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Google Drive API](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | `88%` ![Progress](https://geps.dev/progress/88?color=C21838) **Skilled** |
 
 ---
 
 ### 🛠️ Specialized Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,git,github,vscode,figma,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,git,github,vscode,figma,postman,sqlite&theme=dark" alt="Tech Stack" />
 </div>
 
 <br/>
+
+---
+
+### 🚀 Highlights & Core Competencies
+
+* 📱 **Cross-Platform Apps:** بناء تطبيقات متكاملة للهواتف عبر Flutter مع إدارة حالة احترافية.
+* 🌐 **Web Development:** تصميم وتطوير واجهات وتطبيقات ويب متجاوبة باستخدام HTML5, CSS3, و JavaScript.
+* 🗄️ **Databases & Cloud Sync:** التعامل مع قواعد البيانات المحلية (SQLite) وتكامل خدمات التخزين السحابي (Google Drive API).
+* 📄 **Advanced Features:** توليد مستندات وتقارير PDF مخصصة ودعم كامل للخطوط العربية والوضع الداكن/الفاتح.
 
 ---
 
@@ -69,6 +84,6 @@
 <br/>
 
 <div align="center">
-  <!-- Minimalist Maroon Footer Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=580816&height=70&section=footer" width="100%" alt="Footer Wave" />
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p><b>Let's build something amazing together.</b></p>
 </div>
